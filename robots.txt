@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaecuungos.danramteke.com/sitemap.xml
